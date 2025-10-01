@@ -5,10 +5,11 @@ export default function About() {
         {/* Photo */}
         <div className="w-full md:w-1/3 flex justify-center">
           <img
-            src="/ashley.jpg"
+            src="/img/ashley.jpg"
             alt="Ashley - Babysitter à Roanne"
             className="rounded-3xl shadow-lg object-cover w-64 h-64 md:w-80 md:h-80"
           />
+          {/* <Image src="/img/ashley.jpg" alt="Ashley" width={320} height={320} /> */}
         </div>
 
         {/* Texte */}

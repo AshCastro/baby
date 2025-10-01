@@ -9,7 +9,7 @@ export default function Contact() {
 
         <div className="flex justify-center gap-6 flex-wrap">
           <a
-            href="https://instagram.com/ton_compte"
+            href="https://www.instagram.com/ashleycastro_17?igsh=MXZnaHVqM2pvemF5Mg=="
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-pink-500 text-white px-5 py-3 rounded-full shadow-md hover:bg-pink-600 transition"
@@ -18,7 +18,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://wa.me/33600000000"
+            href="https://wa.me/33612353110"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-green-500 text-white px-5 py-3 rounded-full shadow-md hover:bg-green-600 transition"
